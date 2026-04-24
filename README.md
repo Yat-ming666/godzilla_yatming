@@ -11,4 +11,4 @@ Cookie，UA，Accept，Accept-Language，通讯协议，返回包状态
 <img width="2549" height="1245" alt="image" src="https://github.com/user-attachments/assets/d66bdeda-8cec-401b-9509-3e7429b7c9f3" />
 <img width="2525" height="1360" alt="image" src="https://github.com/user-attachments/assets/863d93b2-aee5-4acb-a572-c7af3cece7fd" />
 <img width="1978" height="1299" alt="image" src="https://github.com/user-attachments/assets/cdf53244-fa1e-40d9-8f00-60a3fe25b7fd" />
-<img width="2560" height="1359" alt="image" src="https://github.com/user-attachments/assets/b7c1b8ed-0378-400d-9b08-f1f6f5c164a0" />
+<img width="2560" height="1357" alt="image" src="https://github.com/user-attachments/assets/2d84bba8-2e8b-48fb-b31a-966eec016a2e" />
